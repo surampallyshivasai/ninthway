@@ -64,7 +64,7 @@ export function Footer() {
           className="border-t border-border pt-8 mt-12 text-center"
         >
           <p className="text-foreground/60">
-            © 2024 NinthWay Branding Agency. All rights reserved.
+            © 2025 NinthWay Branding Agency. All rights reserved.
           </p>
         </motion.div>
       </div>

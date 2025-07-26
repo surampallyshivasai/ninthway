@@ -21,13 +21,13 @@ export function Footer() {
               Crafting royal legacies through premium branding, strategic design, and futuristic digital experiences.
             </p>
             <div className="flex gap-4">
-              <a href="https://www.instagram.com/ninthway.branders" className="p-3 rounded-xl bg-card border border-border hover:border-primary transition-colors group">
+              <a href="https://www.instagram.com/ninthway.branders" target="_blank" className="p-3 rounded-xl bg-card border border-border hover:border-primary transition-colors group">
                 <Instagram className="h-5 w-5 text-foreground/60 group-hover:text-primary transition-colors" />
               </a>
-              <a href="#" className="p-3 rounded-xl bg-card border border-border hover:border-secondary transition-colors group">
+              <a href="https://www.linkedin.com/company/ninthway-branders" target="_blank" className="p-3 rounded-xl bg-card border border-border hover:border-secondary transition-colors group">
                 <Linkedin className="h-5 w-5 text-foreground/60 group-hover:text-secondary transition-colors" />
               </a>
-              <a href="https://api.whatsapp.com/send/?phone=919505062699&text=Hi+NinthWay+Team%2C+I%27m+interested+in+your+branding+services.&type=phone_number&app_absent=0" className="p-3 rounded-xl bg-card border border-border hover:border-accent transition-colors group">
+              <a href="https://api.whatsapp.com/send/?phone=919505062699&text=Hi+NinthWay+Team%2C+I%27m+interested+in+your+branding+services.&type=phone_number&app_absent=0" target="_blank" className="p-3 rounded-xl bg-card border border-border hover:border-accent transition-colors group">
                 <MessageCircle className="h-5 w-5 text-foreground/60 group-hover:text-accent transition-colors" />
               </a>
             </div>
